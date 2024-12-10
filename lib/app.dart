@@ -1,5 +1,4 @@
 import 'package:calculator_project/calculator_view.dart';
-import 'package:calculator_project/grid_view.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {
